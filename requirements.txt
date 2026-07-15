@@ -11,3 +11,6 @@ Ipython
 ipykernel
 langchain-groq
 langchain-ollama
+langchain-community
+arxiv
+wikipedia
