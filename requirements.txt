@@ -14,3 +14,4 @@ langchain-ollama
 langchain-community
 arxiv
 wikipedia
+langgraph-cli[inmem]
